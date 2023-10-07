@@ -18,5 +18,5 @@ We show mel-spectrograms of example input mixes and separated outputs. For each 
 
 We also show the distribution of the different classes of the test set for each quantized embedding found by the system.
 
-
+<img src="hist.png">  
 
