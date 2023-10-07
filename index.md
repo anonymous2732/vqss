@@ -20,3 +20,145 @@ We also show the distribution of the different classes of the test set for each 
 
 <img src="hist.png">  
 
+## Audio Examples
+
+We finally present some audio samples of separations produced by the system. By cross-referencing the cluster index with the histogram shown above, it is possible to recognize the class of sources characteristic of each cluster.
+
+
+### Example 0
+
+Mix
+<audio src="audio/4/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/4/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/4/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/4/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/4/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/4/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/4/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/4/14.wav" controls ></audio>
+
+### Example 1
+
+Mix
+<audio src="audio/5/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/5/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/5/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/5/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/5/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/5/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/5/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/5/14.wav" controls ></audio>
+
+### Example 2
+
+Mix
+<audio src="audio/3/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/3/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/3/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/3/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/3/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/3/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/3/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/3/14.wav" controls ></audio>
+
+### Example 3
+
+Mix
+<audio src="audio/6/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/6/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/6/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/6/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/6/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/6/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/6/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/6/14.wav" controls ></audio>
+
+### Example 4
+
+Mix
+<audio src="audio/2/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/2/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/2/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/2/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/2/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/2/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/2/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/2/14.wav" controls ></audio>
+
+### Example 5
+
+Mix
+<audio src="audio/0/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/0/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/0/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/0/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/0/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/0/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/0/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/0/14.wav" controls ></audio>
+
+### Example 6
+
+Mix
+<audio src="audio/1/mix.wav" controls ></audio>
+Cluster 3 (Drums)
+<audio src="audio/1/3.wav" controls ></audio>
+Cluster 5 (Drums)
+<audio src="audio/1/5.wav" controls ></audio>
+Cluster 6 (Bass/Toms)
+<audio src="audio/1/6.wav" controls ></audio>
+Cluster 8 (Guitar)
+<audio src="audio/1/8.wav" controls ></audio>
+Cluster 10 (Misc)
+<audio src="audio/1/10.wav" controls ></audio>
+Cluster 12 (Crash)
+<audio src="audio/1/12.wav" controls ></audio>
+Cluster 14 (Vocals)
+<audio src="audio/1/14.wav" controls ></audio>
+
+
+
+
+
